@@ -1,6 +1,6 @@
-# AchieveIt - To-Do List App
+# SuccessTrack - To-Do List App
 
-**AchieveIt** is a simple and motivational To-Do List application built using **HTML**, **CSS**, and **JavaScript**. This app helps you stay productive by allowing you to add tasks, mark them as done, and remove completed tasks. Stay motivated and achieve your goals one task at a time!
+**SuccessTrack** is a simple and motivational To-Do List application built using **HTML**, **CSS**, and **JavaScript**. This app helps you stay productive by allowing you to add tasks, mark them as done, and remove completed tasks. Stay motivated and achieve your goals one task at a time!
 
 ## Features
 
